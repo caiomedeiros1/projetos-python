@@ -1,0 +1,22 @@
+{
+    "Ebay": {
+        "email": "cadu2005medeiros@gmail.com",
+        "password": "9LWZlr)w2+)7#Bt+2ILMe"
+    },
+    "Amazon": {
+        "email": "cadu2005medeiros@gmail.com",
+        "password": "kPy+Wrqdvg%d8&9)8!"
+    },
+    "Twitter": {
+        "email": "cadu2005medeiros@gmail.com",
+        "password": "8X+PrP29k&K6%6Cy*u4&&"
+    },
+    "Gmail_teste": {
+        "email": "testesmtp836@gmil.com",
+        "password": "testando123#"
+    },
+    "Yahoo_teste": {
+        "email": "smtpteste1@yahoo.com",
+        "password": "testando123#"
+    }
+}
